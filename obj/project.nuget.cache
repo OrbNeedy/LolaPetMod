@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4psd0ZPg4Lc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LolaPet\\LolaPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

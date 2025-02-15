@@ -1,0 +1,15 @@
+Buffs: {
+	LolaPetBuff: {
+		DisplayName: Lola Pet Buff
+		Description: Mods.LolaPet.Buffs.LolaPetBuff.Description
+	}
+}
+
+Items: {
+	LolaPetItem: {
+		DisplayName: Lola Pet Item
+		Tooltip: ""
+	}
+}
+
+Projectiles.LolaPetProjectile.DisplayName: Lola Pet Projectile
