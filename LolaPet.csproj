@@ -10,6 +10,7 @@
 
 	<!-- References -->
 	<ItemGroup>
+	  <None Remove="Content\Dusts\DarknessDust.png" />
 	  <None Remove="Content\Lola\HologramStyles\LolaPetProjectile_FullHologram.png" />
 	  <None Remove="Content\Lola\HologramStyles\LolaPetProjectile_Hologram.png" />
 	  <None Remove="Content\Lola\LolaPetItem.png" />

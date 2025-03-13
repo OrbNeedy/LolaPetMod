@@ -1,1 +1,3 @@
-Modify this file with a description of your mod.
+This mod adds a Lola Pet from the Azure Striker Gunvolt series.
+This pet can be found in locked gold chests and locked shadow chests or as a rare drop from Destroyer's Probes, and has special properties, such as changing it's appearence based on items the player is holding, and transforming when the player is low on health.
+A variation of her, which has the appearence of Lola from the iX series, can be obtained from shimmering her.

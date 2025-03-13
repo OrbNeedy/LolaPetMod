@@ -230,3 +230,4 @@ C:\Users\USUARIO\Documents\My Games\Terraria\tModLoader\ModSources\LolaPet\obj\D
 C:\Users\USUARIO\Documents\My Games\Terraria\tModLoader\ModSources\LolaPet\obj\Debug\net8.0\refint\LolaPet.dll
 C:\Users\USUARIO\Documents\My Games\Terraria\tModLoader\ModSources\LolaPet\obj\Debug\net8.0\LolaPet.pdb
 C:\Users\USUARIO\Documents\My Games\Terraria\tModLoader\ModSources\LolaPet\obj\Debug\net8.0\ref\LolaPet.dll
+C:\Users\USUARIO\Documents\My Games\Terraria\tModLoader\ModSources\LolaPet\obj\Debug\net8.0\LolaPet.sourcelink.json

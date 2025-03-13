@@ -1,15 +1,48 @@
 Buffs: {
 	LolaPetBuff: {
-		// DisplayName: Lola Pet Buff
-		// Description: Mods.LolaPet.Buffs.LolaPetBuff.Description
+		DisplayName: Roro
+		Description: Una asistente robotica te sigue.
+	}
+
+	iXLolaPetBuff: {
+		DisplayName: Lola
+		Description: Una asistente robotica te sigue.
+	}
+
+	DarknessLolaPetBuff: {
+		// DisplayName: Darkness Lola Pet Buff
+		// Description: Mods.LolaPet.Buffs.DarknessLolaPetBuff.Description
 	}
 }
 
 Items: {
 	LolaPetItem: {
-		// DisplayName: Lola Pet Item
+		DisplayName: Roro
+		Tooltip:
+			'''
+			Un pequeño robot perdido.
+			Es viejo, pero en condiciones inmaculadas, probablemente
+			puede encenderse sin problemas.
+			'''
+	}
+
+	iXLolaPetItem: {
+		DisplayName: Lola
+		Tooltip:
+			'''
+			Un pequeño robot perdido.
+			Similar al que obtuviste antes, pero es más moderna.
+			'''
+	}
+
+	DarknessLolaPetItem: {
+		// DisplayName: Darkness Lola Pet Item
 		// Tooltip: ""
 	}
 }
 
-// Projectiles.LolaPetProjectile.DisplayName: Lola Pet Projectile
+Projectiles: {
+	LolaPetProjectile.DisplayName: Roro
+	iXLolaPetProjectile.DisplayName: Lola
+	// DarknessLolaPetProjectile.DisplayName: Darkness Lola Pet Projectile
+}

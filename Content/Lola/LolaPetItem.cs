@@ -39,6 +39,8 @@ namespace LolaPet.Content.Lola
             Item.height = 26;
             Item.rare = ItemRarityID.Master;
             Item.value = Item.sellPrice(0, 0, 50);
+
+            ItemID.Sets.ShimmerTransformToItem[Item.type] = ModContent.ItemType<iXLolaPetItem>();
         }
 
         public override void LoadData(TagCompound tag)
